@@ -1,6 +1,6 @@
 # Setting --------------------
 reset
-set nokey
+unset key
 set term gif animate delay 4 size 1280,720
 set grid
 L    = 15e7
